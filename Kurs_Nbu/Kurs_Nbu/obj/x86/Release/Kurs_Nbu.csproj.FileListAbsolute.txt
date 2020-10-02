@@ -1,0 +1,10 @@
+D:\Projects\Kurs_Nbu\Kurs_Nbu\bin\Release\Kurs_Nbu.exe.config
+D:\Projects\Kurs_Nbu\Kurs_Nbu\bin\Release\Kurs_Nbu.exe
+D:\Projects\Kurs_Nbu\Kurs_Nbu\bin\Release\Kurs_Nbu.pdb
+D:\Projects\Kurs_Nbu\Kurs_Nbu\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Kurs_Nbu\Kurs_Nbu\obj\x86\Release\Kurs_Nbu.FormMain.resources
+D:\Projects\Kurs_Nbu\Kurs_Nbu\obj\x86\Release\Kurs_Nbu.Properties.Resources.resources
+D:\Projects\Kurs_Nbu\Kurs_Nbu\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\Kurs_Nbu\Kurs_Nbu\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\Kurs_Nbu\Kurs_Nbu\obj\x86\Release\Kurs_Nbu.exe
+D:\Projects\Kurs_Nbu\Kurs_Nbu\obj\x86\Release\Kurs_Nbu.pdb
